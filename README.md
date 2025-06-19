@@ -1,2 +1,2 @@
-# CMRSITE
+# CINGMAR_SITE
 My web
